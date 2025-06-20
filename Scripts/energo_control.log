@@ -1,0 +1,67 @@
+2025-06-20 17:44:59,938 - INFO - Database initialized successfully.
+2025-06-20 17:45:01,285 - INFO - Fetched 0 incidents with filters.
+2025-06-20 17:45:07,235 - INFO - Fetched 0 incidents with filters.
+2025-06-20 17:45:09,112 - INFO - Fetched 0 brigades with filters.
+2025-06-20 17:45:09,937 - INFO - Fetched 0 equipment items with filters.
+2025-06-20 17:45:11,194 - INFO - Fetched 0 incidents with filters.
+2025-06-20 17:45:49,767 - INFO - New incident registered with ID: 1
+2025-06-20 17:45:51,259 - INFO - Fetched 1 incidents with filters.
+2025-06-20 17:45:54,555 - INFO - Fetched 1 incidents with filters.
+2025-06-20 17:45:56,733 - INFO - Fetched 1 incidents with filters.
+2025-06-20 17:45:57,606 - INFO - Fetched 1 incidents with filters.
+2025-06-20 17:45:58,261 - INFO - Fetched 1 incidents with filters.
+2025-06-20 17:45:59,566 - INFO - Fetched 1 incidents with filters.
+2025-06-20 17:46:00,165 - INFO - Fetched 1 incidents with filters.
+2025-06-20 17:50:34,041 - INFO - Database initialized successfully.
+2025-06-20 17:50:35,016 - INFO - Fetched 1 incidents with filters.
+2025-06-20 17:50:38,688 - INFO - Incident ID:1 status updated to 'В работе'.
+2025-06-20 17:50:38,689 - INFO - Fetched 1 incidents with filters.
+2025-06-20 17:50:42,400 - INFO - Incident ID:1 status updated to 'Устранено'.
+2025-06-20 17:50:42,401 - INFO - Fetched 0 incidents with filters.
+2025-06-20 17:50:48,134 - INFO - New incident registered with ID: 2
+2025-06-20 17:50:49,534 - INFO - Fetched 1 incidents with filters.
+2025-06-20 17:50:51,841 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:50:55,448 - INFO - Fetched 0 brigades with filters.
+2025-06-20 17:50:59,951 - INFO - New brigade '-' added with ID: 1
+2025-06-20 17:51:01,160 - INFO - Fetched 1 brigades with filters.
+2025-06-20 17:51:02,691 - INFO - Fetched 0 equipment items with filters.
+2025-06-20 17:51:11,211 - WARNING - Invalid date format for equipment field: Дата установки (ГГГГ-ММ-ДД)
+2025-06-20 17:51:14,076 - INFO - Fetched 1 brigades with filters.
+2025-06-20 17:51:16,052 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:51:18,589 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:51:20,614 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:51:20,811 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-20 17:51:20,812 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-20 17:51:22,182 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:51:23,037 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:51:24,886 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:51:29,218 - INFO - Fetched 1 incidents with filters.
+2025-06-20 17:51:31,916 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:51:33,114 - INFO - Fetched 1 brigades with filters.
+2025-06-20 17:51:33,920 - INFO - Fetched 0 equipment items with filters.
+2025-06-20 17:51:34,666 - INFO - Fetched 1 incidents with filters.
+2025-06-20 17:51:48,041 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:51:48,585 - INFO - Fetched 1 incidents with filters.
+2025-06-20 17:51:49,088 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:52:08,298 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:52:09,845 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:52:10,485 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:52:10,663 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-20 17:52:10,664 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-20 17:52:12,093 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:52:12,845 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:52:13,549 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:52:13,727 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-20 17:52:13,728 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-20 17:52:14,373 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:52:15,853 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:52:20,110 - INFO - Fetched 2 incidents with filters.
+2025-06-20 17:52:27,361 - INFO - Fetched 1 brigades with filters.
+2025-06-20 17:52:38,347 - INFO - Fetched 0 equipment items with filters.
+2025-06-20 19:02:17,783 - INFO - Database initialized successfully.
+2025-06-20 19:02:18,935 - INFO - Fetched 1 incidents with filters.
+2025-06-20 19:02:28,558 - INFO - Fetched 1 brigades with filters.
+2025-06-20 19:02:53,441 - INFO - Fetched 0 equipment items with filters.
+2025-06-20 19:03:19,250 - INFO - Fetched 2 incidents with filters.
+2025-06-20 19:03:21,623 - INFO - Fetched 2 incidents with filters.
+2025-06-20 19:06:33,436 - INFO - Fetched 1 incidents with filters.
